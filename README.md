@@ -1,4 +1,4 @@
-# 🌧️ Rainfall Climatology of India — Interactive 3D Explorer
+# 🌧️ Rainfall Climatology of India — Interactive 3D Explorer (https://codesofdevashish.github.io/ISMR/)
 
 **An interactive, browser-based view of 124 years of Indian rainfall (1901–2024), built from IMD 0.25° gridded daily data.**
 
